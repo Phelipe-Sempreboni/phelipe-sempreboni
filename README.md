@@ -47,7 +47,11 @@ A jornada com dados começou em 2016 quando notei que o Excel somente não me at
 <p> 
   <img src="https://img.shields.io/badge/Data%20Modeling-SchemaSpy-blueviolet"/>
 <p>
-  
+ 
+<p> 
+  <img src="https://img.shields.io/badge/SAP%20GUI-CCS%20Produtivo%2FCRM-yellow"/>
+<p>
+ 
 ---
 
  - [x] Minhas redes:
