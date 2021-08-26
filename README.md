@@ -23,6 +23,7 @@ A jornada com dados começou em 2016 quando notei que o Excel somente não me at
   <img src="https://img.shields.io/badge/Database-SQLite%20Studio-red"/>
   <img src="https://img.shields.io/badge/Database-SAP%20Hana-red"/>
   <img src="https://img.shields.io/badge/Database-Microsoft%20Access-red"/>
+  <img src="https://img.shields.io/badge/Database-DBeaver-red"/>
 <p>
   
 <p> 
@@ -46,6 +47,8 @@ A jornada com dados começou em 2016 quando notei que o Excel somente não me at
   
 <p> 
   <img src="https://img.shields.io/badge/Data%20Modeling-SchemaSpy-blueviolet"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-brModelo-blueviolet"/>
+  <img src="https://img.shields.io/badge/Data%20Modeling-MySQL%20Workbench-blueviolet"/>
 <p>
  
 <p> 
