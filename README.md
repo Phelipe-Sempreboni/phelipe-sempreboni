@@ -1,8 +1,8 @@
 ---
 
-#### Fala pessoal, muito bom ver vocês por aqui :vulcan_salute:
+#### Fala pessoal, bom ver vocês :vulcan_salute:
 
-Sou o Phelipe, entusiasta e em constante formação das áreas de Business Intelligence, Data Analytics e Data Governance.
+Phelipe aqui, atualmente atuando nas áreas de dados, como, Governança e Qualidade de Dados, Engenharia de Dados e Analytics, Data Mesh e aprendendo outras coisas por aí.
 
 ---
 
