@@ -10,7 +10,7 @@
 
 ##### Curto bastante a área de dados, e atualmente também engenharia de software, que vem complementando os estudos com dados no dia a dia.
 
-##### A jornada com dados começou em 2016, quando notei que só o excel não me atendia mais em tarefas como, armazenamento, consulta, análise e visualização de dados, então acabei pesquisando e conhecendo o sql server, e a partir daí acabei conhecendo novas teorias, metodologias, ferramentas, e cá estou até hoje.
+##### A jornada com dados começou em 2016, quando notei que só o excel não me atendia mais em tarefas como, armazenamento, consulta, análise e visualização de dados, então acabei pesquisando e conhecendo o sql server, e a partir daí acabei conhecendo novas teorias, metodologias, ferramentas, e permaneço na área até hoje.
 
 ---
 
