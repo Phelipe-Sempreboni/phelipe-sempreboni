@@ -14,7 +14,7 @@
 
 ---
 
- - [x] Ferramentas:
+ - [x] Conhecimentos:
 
 <p>
   <img src="https://img.shields.io/badge/Database-SQL%20Server-red"/>
