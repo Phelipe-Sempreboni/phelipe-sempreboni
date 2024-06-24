@@ -1,8 +1,8 @@
 ---
 
-#### Fala pessoal, bom ver vocês :vulcan_salute:
+#### Fala pessoal, bom ver vocês por aqui :vulcan_salute:
 
-##### Phelipe aqui, atualmente atuando nas áreas de Governança e Qualidade de Dados, Engenharia de Dados e Analytics, Data Mesh e aprendendo outras coisas por aí.
+##### Atualmente atuando e estudando as áreas de Governança e Qualidade de dados, Engenharia de Dados e Analytics, Data Mesh e Engenharia de Software.
 
 ---
 
