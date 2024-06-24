@@ -8,9 +8,9 @@
 
  - [x] Um pouco sobre mim:
 
-Adepto, entusiasta e em constante aprendizado da área de dados e suas derivações, tecnologias, teorias e aplicações no dia a dia das pessoas! Dados hoje movem o mundo.
+##### Curto bastante a área de dados, e atualmente também engenharia de software, que vem complementando os estudos com dados no dia a dia.
 
-A jornada com dados começou em 2016 quando notei que o Excel somente não me atendia mais nas demandas de armazenamento, consultas, análises e visualizações de dados, então acabei pesquisando e conhecendo o SQL Server e seu poder, e ao longo do aprendizado fui conhecendo outras ferramentas, teorias e aplicações e foi onde tudo começou e no caminho que estou até hoje.
+##### A jornada com dados começou em 2016, quando notei que só o excel não me atendia mais em tarefas como, armazenamento, consulta, análise e visualização de dados, então acabei pesquisando e conhecendo o sql server, e a partir daí acabei conhecendo novas teorias, metodologias, ferramentas, e cá estou até hoje.
 
 ---
 
