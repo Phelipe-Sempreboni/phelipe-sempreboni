@@ -31,7 +31,13 @@
   <img src="https://img.shields.io/badge/Language-PL%2FSQL-brightgreen"/>
   <img src="https://img.shields.io/badge/Language-Python-brightgreen"/>
   <img src="https://img.shields.io/badge/Language-VBA-brightgreen"/>
-<p> 
+<p>
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud-AWS-brown"/>
+  <img src="https://img.shields.io/badge/Cloud-Azure-brown"/>
+  <img src="https://img.shields.io/badge/Cloud-IBM CP4D-brown"/>
+</p>
 
 <p> 
   <img src="https://img.shields.io/badge/Visualization-Power%20BI-blue"/>
@@ -53,6 +59,19 @@
  
 <p> 
   <img src="https://img.shields.io/badge/SAP%20GUI-CCS%20Produtivo%2FCRM-yellow"/>
+<p>
+
+---
+
+ - [x] Interesses:
+
+<p>
+  <img src="https://img.shields.io/badge/Interesses-Gov.%20De%20Dados-blue"/>
+  <img src="https://img.shields.io/badge/Interesses-Qual.%20De%20Dados-blue"/>
+  <img src="https://img.shields.io/badge/Interesses-Eng.%20De%20Dados-blue"/>
+  <img src="https://img.shields.io/badge/Interesses-Eng.%20De%20Analytics-blue"/>
+  <img src="https://img.shields.io/badge/Interesses-Eng.%20De%20Software-blue"/>
+  <img src="https://img.shields.io/badge/Interesses-Data%20Mesh-blue"/>
 <p>
  
 ---
