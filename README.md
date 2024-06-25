@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/Interesses-Gov. e Qual.%20De%20Dados-blue"/>
   <img src="https://img.shields.io/badge/Interesses-Eng.%20De%20Dados-blue"/>
   <img src="https://img.shields.io/badge/Interesses-Eng.%20De%20Analytics-blue"/>
-  <img src="https://img.shields.io/badge/Interesses-Eng.%20De%20Software-blue"/>
   <img src="https://img.shields.io/badge/Interesses-Data%20Mesh-blue"/>
 <p>
  
