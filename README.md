@@ -84,7 +84,7 @@
  - [x] Minhas redes:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Phelipe-Sempreboni)](https://github.com/Phelipe-Sempreboni)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Phelipe-Sempreboni/)](https://www.linkedin.com/in/luiz-phelipe-utiama-sempreboni-319902169/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Phelipe-Sempreboni/)](https://www.linkedin.com/in/phelipe-sempreboni-319902169/)
 
 ---
 
